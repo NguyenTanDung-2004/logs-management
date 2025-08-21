@@ -1,0 +1,3 @@
+2025-08-17 12:00:00 INFO  [user-service] User created successfully
+2025-08-17 12:01:00 WARN  [order-service] Order not found
+2025-08-17 12:02:00 ERROR [payment-service] Payment failed: insufficient balance
